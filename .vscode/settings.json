@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "sprite.h": "c",
+        "sdl_wrapper.h": "c"
+    }
+}
